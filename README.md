@@ -1,5 +1,7 @@
 # ManojKumarS.gitghub.io
 
+Click Here to view : https://manojkumars-09.github.io/ManojKumarS.gitghub.io/
+
 > I have to add more certificates 
 > I have to connect the get in touch section to the contact.php (i am not having wamp that is the reason i have left it.) 
 > Copyright Notice
